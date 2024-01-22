@@ -1,1 +1,1 @@
-A simple 404 Error page made using HTML & CSS
+A simple interactive 404 Error page made using HTML & CSS
